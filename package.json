@@ -1,0 +1,23 @@
+{
+  "name": "findhadeethbot",
+  "version": "1.0.0",
+  "description": "Find hadeeth bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.30.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbukaevzaur/findhadeethbot.git"
+  },
+  "author": "CodeGan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elbukaevzaur/findhadeethbot/issues"
+  },
+  "homepage": "https://github.com/elbukaevzaur/findhadeethbot#readme"
+}
